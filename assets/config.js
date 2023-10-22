@@ -7,13 +7,13 @@ const config = {
 	// Set frequents nav
 	nav: {
 		Cat: '//sniffstherose.github.io',
-		Nav: '//sniffstherose.github.io/nav',
+		Nav: '//tryanel.github.io/nav',
 		// Archive: '//walkssi.com/archive',
 		// Blog: '//walkssi.com/posts',
 		// Github: '//github.com/loveminimal',
 		// Bilibili: '//bilibili.com',
 		// Youtube: '//youtube.com',
-		Wiki: '//sniffstherose.github.io/wiki',
-		Mine: '//sniffstherose.github.io/about',
+		Wiki: '//tryanel.github.io/Wiki',
+		Mine: '//tryanel.github.io/about',
 	}
 }
