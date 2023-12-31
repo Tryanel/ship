@@ -6,9 +6,9 @@ const config = {
 	engine: 'by',
 	// Set frequents nav
 	nav: {
-		Cat: '//Tryanel.github.io',
+		Cat: '//tryanel.github.io',
 		Nav: '//tryanel.github.io/nav',
-		Archive: '//walkssi.com/archive',
+		Archive: '//tryanel.github.io/archive',
 		// Blog: '//walkssi.com/posts',
 		// Github: '//github.com/loveminimal',
 		// Bilibili: '//bilibili.com',
