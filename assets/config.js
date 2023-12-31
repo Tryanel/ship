@@ -8,7 +8,7 @@ const config = {
 	nav: {
 		Cat: '//tryanel.github.io',
 		Nav: '//tryanel.github.io/nav',
-		Archive: '//tryanel.github.io/archive',
+		tags: '//tryanel.github.io/tags',
 		// Blog: '//walkssi.com/posts',
 		// Github: '//github.com/loveminimal',
 		// Bilibili: '//bilibili.com',
