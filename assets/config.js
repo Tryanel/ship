@@ -6,14 +6,14 @@ const config = {
 	engine: 'by',
 	// Set frequents nav
 	nav: {
-		Cat: '//sniffstherose.github.io',
+		Cat: '//Tryanel.github.io',
 		Nav: '//tryanel.github.io/nav',
-		// Archive: '//walkssi.com/archive',
+		Archive: '//walkssi.com/archive',
 		// Blog: '//walkssi.com/posts',
 		// Github: '//github.com/loveminimal',
 		// Bilibili: '//bilibili.com',
 		// Youtube: '//youtube.com',
-		// Wiki: '//tryanel.github.io/wiki',
+		Wiki: '//tryanel.github.io/wiki',
 		Mine: '//tryanel.github.io/about',
 	}
 }
